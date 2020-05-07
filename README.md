@@ -1,4 +1,4 @@
-# Google Oauth 2.0 with Angular 9
+# Google Oauth 2.0 with Angular 9 and Firebase
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0.
 
